@@ -1,4 +1,3 @@
-# Sleep-Disorder-EDA-Analysis
 # 💤 Sleep Disorder EDA Analysis
 
 This project uses Exploratory Data Analysis (EDA) to explore and identify key patterns, correlations, and insights related to **sleep disorders** such as **Insomnia** and **Sleep Apnea** using real-world lifestyle, psychological, and biological data.
